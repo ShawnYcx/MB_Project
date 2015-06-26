@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS account, mem_bank;
+DROP TABLE IF EXISTS users, diary;
 
 CREATE TABLE users (
 username varchar(10) PRIMARY KEY,
@@ -6,7 +6,7 @@ email varchar(20),
 password varchar(20)
 );
 
-CREATE TABLE mem_bank(
+CREATE TABLE diary(
 id int auto_increment PRIMARY KEY,
 subject text,
 body text,

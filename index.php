@@ -21,7 +21,7 @@
     <div id="wrapper2">
 	    <a href="#" class="brand-logo">Memory Bank</a>
 	      <ul id="nav-mobile" class="right hide-on-med-and-down">
-	      	<li><a href="sass.html"><strong>Upload</strong></a></li>
+	      	<li><a href="sass.html"><strong>SYNC+</strong></a></li>
 	        <li><a class="modal-trigger" href="#modal1">Login</a></li>
 	      </ul>
 	    </div>
